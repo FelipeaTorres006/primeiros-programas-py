@@ -26,3 +26,5 @@ time.sleep(4)
 os.system('clear')
 
 print(' Pera ai, na verdade foi o amarelo')
+
+#Narutoelegal
